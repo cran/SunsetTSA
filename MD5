@@ -1,0 +1,17 @@
+55d89902a09f01c8563a6f6f2a81d8b8 *DESCRIPTION
+1116ca949e23fc39d439f9f5ccb580ee *NAMESPACE
+19b365d4212916f3204e65e6e21c972b *R/airport_codes.R
+0c89314d3fc32ce8b39c9b38abb0539d *R/sunrise_sunset.R
+a392eb788f6d3e6a98536514a2dc1710 *R/sysdata.rda
+7f6cc593f709b5d0f97f78310bfb7b81 *build/vignette.rds
+c99416f54e0a7de40657b6e000f2dd30 *inst/doc/Introduction.R
+4791d1ae7ab7ec0f9a45e3167b65491f *inst/doc/Introduction.Rmd
+54206c70f26a08772921bdf1d940462e *inst/doc/Introduction.html
+ad956a1a3d1eaf85928c613b6e813865 *man/airport_codes_by_city.Rd
+71efe75b5c6256162b95a6189d09af60 *man/airport_codes_by_name.Rd
+b2fea37ef1ac2cfa85d055773fc94db9 *man/airport_codes_by_state.Rd
+d56d500fc2a53dbcaa4c079747888493 *man/sunrise_sunset.Rd
+ce09d3c1c8dda7ac8798b627162102c1 *tests/testthat.R
+8c5c97b1f3bde1a55ce60dcd45d649d0 *tests/testthat/test-airport_codes.R
+cb8e55857e520d9e5ba97cd69072fd5f *tests/testthat/test-sunrise_sunset.R
+4791d1ae7ab7ec0f9a45e3167b65491f *vignettes/Introduction.Rmd
